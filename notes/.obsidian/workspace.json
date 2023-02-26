@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-25.md",
+                "file": "Obsidian Test.md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-25.md",
+                "file": "Obsidian Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-25.md",
+                "file": "Obsidian Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-25.md"
+                "file": "Obsidian Test.md"
               }
             }
           }
@@ -146,11 +147,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "38a0336e5c295267",
+  "active": "55b418f5a2ac3857",
   "lastOpenFiles": [
+    "2023-02-25.md",
     "Obsidian Test.md",
     "Canvas Test.canvas",
-    "2023-02-25.md",
     "Untitled 1.canvas"
   ]
 }
