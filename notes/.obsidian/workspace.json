@@ -65,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55b418f5a2ac3857",
+  "active": "c1c0f045ffbd6b22",
   "lastOpenFiles": [
     "logo.md",
     "cheatsheet_markdown.md",

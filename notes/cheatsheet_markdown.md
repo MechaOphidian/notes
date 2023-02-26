@@ -173,9 +173,10 @@ form3
 ![hover over text](https://di.phncdn.com/www-static/images/pornhub_logo_straight.svg?cache=2023022302)
 
 `form2`
-![alt text](logo)
+![Click me bruh](logo)
 `form3`
 [logo]: https://di.phncdn.com/www-static/images/pornhub_logo_straight.svg?cache=2023022302 "Logo Title Text"
+
 ___
 #codeblocks
 ````
@@ -302,7 +303,9 @@ form1
 <b>Don't do this, just use HTML</b>
 </body>
 </dl>
+
 ___
+
 #HorizontalRule
 ```
 #you can make content more readable by using spacing lines to break sections up
