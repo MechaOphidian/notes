@@ -111,9 +111,6 @@ form3 reference-style
 [0]: https://www.pornhub.com
 #numbers can be used for tagging
 
-[]: https://www.pornhub.com
-#blank will use the link as a tag
-
 form4 relative-reference-style
 
 [CSS Cheatsheet Link]("C:\Git\notes\notes\CSSCheatsheet.md")
@@ -140,9 +137,6 @@ form5 reference-style link can be used with numbers too
 [Totally Not Pornhub][0]
 
 [0]: https://www.pornhub.com
-
-Something [1]
-[1]: https://www.pornhub.com
 
 `form4`
 [CSS Cheatsheet Link](C:\Git\notes\notes\cheatsheet_css.md)
