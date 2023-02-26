@@ -124,19 +124,26 @@ form5 reference-style link can be used with numbers too
 ```
 
 `form1`
+
 [I'm an inline-style link](https://www.google.com)
 
 `form2`
+
 [I'm an inline-style link with title](https://www.pornhub.com "It's not pornhub I swear")
 
 `form3`
+
 [I'm a reference-style link][Reftag]
+
 [Reftag]: https://www.pornhub.com
 
 [Totally Not Pornhub][0]
+
 [0]: https://www.pornhub.com
 
 `form4`
+
+
 [CSS Cheatsheet Link](C:\Git\notes\notes\cheatsheets\cheatsheet_css.md)
 [Readme Link](..\README.md)
 
@@ -147,25 +154,29 @@ ___
 ```
 Here's our logo (hover to see the title text):
 
-form1
-Inline-style: 
+form1 inline-style: 
+
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title ext 1")
 
-form2
-reference-style: 
+form2 reference-style:
+
 ![alt text][logo]
 
-form3
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/2560px-Pornhub-logo.svg.png "Pornhub Logo"
+
+Here's our logo (hover to see the title text):
+
 ```
 
 `form1`
 ![hover over text](https://di.phncdn.com/www-static/images/pornhub_logo_straight.svg?cache=2023022302)
 
 `form2`
-![Click me bruh](logo)
-`form3`
-[logo]: https://di.phncdn.com/www-static/images/pornhub_logo_straight.svg?cache=2023022302 "Logo Title Text"
+![alt text][logo]
+
+[logo]: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Pornhub-logo.svg/2560px-Pornhub-logo.svg.png "Pornhub Logo"
+
+
 
 ___
 #codeblocks
