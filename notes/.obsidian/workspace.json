@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#awake",
+                "query": "tag:#headers",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55b418f5a2ac3857",
+  "active": "253ff9b4a42528bb",
   "lastOpenFiles": [
     "logo.md",
     "cheatsheets/cheatsheet_markdown.md",

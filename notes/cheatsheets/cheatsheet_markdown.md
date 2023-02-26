@@ -1,5 +1,5 @@
 ___
-#comments
+# comments
 ```Markdown
 <!---
 This file was created in obsidian
@@ -7,7 +7,7 @@ use the syntax wrapping this section to make a comment
 --->
 ```
 ___
-#linebreaking
+# linebreaking
 ```
 To break a line simply use `Enter/return key` twice
 
@@ -23,7 +23,8 @@ Your text will then appear on the next like so
 Remeber to seperate your lines, or...
 They will stitch togethor like this.
 ___
-#headers
+# Headers
+
 ```markdown
 
 # heading1 example
@@ -55,7 +56,7 @@ Alt-H1
 Alt-H2
 ------
 ___
-#lists
+# lists
 ```
 
 - [] Github Markdown uses `- [] ` to create to do lists
@@ -70,7 +71,7 @@ ___
   * Unordered list
    * Sub Listing is based on number of `...` used
 ___
-#emphasis
+# emphasis
 ```
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -91,9 +92,9 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ~~Tildes~~
 ___
-#linkin
+# linking
 ```
-Linki
+Linking
 
 form1 inline-style
 
@@ -150,7 +151,7 @@ form5 reference-style link can be used with numbers too
 Or leave it empty and use the [tag]
 [tag]: http://www.pornhub.com
 ___
-#images
+# images
 ```
 Here's our logo (hover to see the title text):
 
@@ -179,7 +180,7 @@ Here's our logo (hover to see the title text):
 
 
 ___
-#codeblocks
+# codeblocks
 ````
 #codeblocks can be used to visually display chunks of code
 
@@ -190,7 +191,7 @@ form1
 
 `form1`
 ___
-#syntaxhighlighting
+# syntaxhighlighting
 ````
 #codeblocks can be used to 
 
@@ -219,7 +220,7 @@ form2 = "Python syntax highlighting"
 print form2
 ```
 ___
-#footnotes
+# footnotes
 ```
 #footnotes can be used to add references to the bottom of a page
 
@@ -256,7 +257,7 @@ form 3 Example[^name]
   footnote.
 [^name]: named-footnote
 ___
-#table
+# table
 ```
 #tables can be created from plain text
 
@@ -269,7 +270,7 @@ Waifu | Score | Trait
 *Hinata* | `10/10` | **Medium**
 *Yo momma* | `11/10` | **MILF**
 ___
-#BlockQuotes 
+# BlockQuotes 
 ```
 #It's greentext but less wizard flavoured
 
@@ -279,7 +280,7 @@ ___
 >Commonly used to roast specific parts of internet arguments
 >Or to tell fire stories without massive paragraphs
 ___
-#inlineHTML
+# inlineHTML
 ```
 #inlineHTML can be used inside of markup but it's finnicky and you can literally just use HTML so it's cool that it works but... redundant
 
@@ -299,7 +300,7 @@ form1
 <dl>
   <body>  
   
-<h1>This was made</h1>  
+<h5>This was made</h5>  
 <i><p>using html in markup but...</p> </i> 
 <b>Don't do this, just use HTML</b>
 </body>
@@ -307,7 +308,7 @@ form1
 
 ___
 
-#HorizontalRule
+# HorizontalRule
 ```
 #you can make content more readable by using spacing lines to break sections up
 #all three forms produce the same result
@@ -337,7 +338,7 @@ Underscores
 
 ___
 
-#youtube
+# youtube
 ```
 #youtube videos cannot be embedded but an image preview can be generated from a link
 
