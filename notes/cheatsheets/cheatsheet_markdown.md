@@ -1,5 +1,5 @@
 ___
-# comments
+# Comments
 ```Markdown
 <!---
 This file was created in obsidian
@@ -7,7 +7,7 @@ use the syntax wrapping this section to make a comment
 --->
 ```
 ___
-# linebreaking
+# Linebreaking
 ```
 To break a line simply use `Enter/return key` twice
 
@@ -56,7 +56,7 @@ Alt-H1
 Alt-H2
 ------
 ___
-# lists
+# Lists
 ```
 
 - [] Github Markdown uses `- [] ` to create to do lists
@@ -71,7 +71,7 @@ ___
   * Unordered list
    * Sub Listing is based on number of `...` used
 ___
-# emphasis
+# Emphasis
 ```
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
@@ -92,7 +92,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ~~Tildes~~
 ___
-# linking
+# Linking
 ```
 Linking
 
@@ -151,7 +151,7 @@ form5 reference-style link can be used with numbers too
 Or leave it empty and use the [tag]
 [tag]: http://www.pornhub.com
 ___
-# images
+# Images
 ```
 Here's our logo (hover to see the title text):
 
@@ -180,7 +180,7 @@ Here's our logo (hover to see the title text):
 
 
 ___
-# codeblocks
+# Codeblocks
 ````
 #codeblocks can be used to visually display chunks of code
 
@@ -191,7 +191,7 @@ form1
 
 `form1`
 ___
-# syntaxhighlighting
+# Syntaxhighlighting
 ````
 #codeblocks can be used to 
 
@@ -220,7 +220,7 @@ form2 = "Python syntax highlighting"
 print form2
 ```
 ___
-# footnotes
+# Footnotes
 ```
 #footnotes can be used to add references to the bottom of a page
 
@@ -257,7 +257,7 @@ form 3 Example[^name]
   footnote.
 [^name]: named-footnote
 ___
-# table
+# Table
 ```
 #tables can be created from plain text
 
@@ -280,7 +280,7 @@ ___
 >Commonly used to roast specific parts of internet arguments
 >Or to tell fire stories without massive paragraphs
 ___
-# inlineHTML
+# InlineHTML
 ```
 #inlineHTML can be used inside of markup but it's finnicky and you can literally just use HTML so it's cool that it works but... redundant
 
@@ -338,7 +338,7 @@ Underscores
 
 ___
 
-# youtube
+# Youtube
 ```
 #youtube videos cannot be embedded but an image preview can be generated from a link
 
