@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#tables",
+                "query": "tag:#awake",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,7 +160,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "253ff9b4a42528bb",
+  "active": "55b418f5a2ac3857",
   "lastOpenFiles": [
     "logo.md",
     "cheatsheets/cheatsheet_markdown.md",

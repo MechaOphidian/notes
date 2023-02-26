@@ -1,9 +1,9 @@
 ___
-#awake
+#comments
 ```Markdown
 <!---
 This file was created in obsidian
-use `<!--- COMMENT --->` to make a comment
+use the syntax wrapping this section to make a comment
 --->
 ```
 ___
