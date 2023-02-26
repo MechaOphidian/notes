@@ -104,9 +104,8 @@ form2 inline-style w/ Title
 
 form3 reference-style
 
-[Totally Not Pornhub][Referencetag]
-
-[Referencetag]: https://www.pornhub.com
+[Reftag][I'm a reference tag link]
+[Reftag]: https://www.pornhub.com
 
 [0]: https://www.pornhub.com
 #numbers can be used for tagging
@@ -131,11 +130,10 @@ form5 reference-style link can be used with numbers too
 [I'm an inline-style link with title](https://www.pornhub.com "It's not pornhub I swear")
 
 `form3`
-[Totally Not Pornhub][Referencetag]
-[Referencetag]: https://www.pornhub.com
+[I'm a reference-style link][Reftag]
+[Reftag]: https://www.pornhub.com
 
 [Totally Not Pornhub][0]
-
 [0]: https://www.pornhub.com
 
 `form4`
