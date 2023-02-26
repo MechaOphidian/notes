@@ -104,7 +104,7 @@ form2 inline-style w/ Title
 
 form3 reference-style
 
-[Reftag][I'm a reference tag link]
+[I'm a reference-style link][Reftag]
 [Reftag]: https://www.pornhub.com
 
 [0]: https://www.pornhub.com
@@ -137,7 +137,7 @@ form5 reference-style link can be used with numbers too
 [0]: https://www.pornhub.com
 
 `form4`
-[CSS Cheatsheet Link](C:\Git\notes\notes\cheatsheet_css.md)
+[CSS Cheatsheet Link](C:\Git\notes\notes\cheatsheets\cheatsheet_css.md)
 [Readme Link](..\README.md)
 
 Or leave it empty and use the [tag]

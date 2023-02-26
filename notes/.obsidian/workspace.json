@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheet_markdown.md",
+                "file": "cheatsheets/cheatsheet_markdown.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "253ff9b4a42528bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cheatsheets/cheatsheet_markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheatsheet_markdown.md",
+                "file": "cheatsheets/cheatsheet_markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheatsheet_markdown.md",
+                "file": "cheatsheets/cheatsheet_markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheatsheet_markdown.md"
+                "file": "cheatsheets/cheatsheet_markdown.md"
               }
             }
           }
@@ -146,13 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1c0f045ffbd6b22",
+  "active": "253ff9b4a42528bb",
   "lastOpenFiles": [
+    "cheatsheets/cheatsheet_python.md",
+    "cheatsheets/cheatsheet_css.md",
+    "cheatsheets",
+    "cheatsheets/cheatsheet_markdown.md",
+    "py",
     "logo.md",
-    "cheatsheet_markdown.md",
     "[].md",
     "Canvas Test.canvas",
-    "cheatsheet_css.md",
     "().md",
     "Git/notes/notes/CSSCheatsheet.md",
     "Git/notes/notes",
