@@ -11,8 +11,12 @@
             "id": "38a0336e5c295267",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Markdown Cheatsheet.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Markdown Cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Markdown Cheatsheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Markdown Cheatsheet.md"
+              }
             }
           }
         ]
@@ -138,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6fd10480e40bee49",
+  "active": "38a0336e5c295267",
   "lastOpenFiles": [
-    "Canvas Test.canvas",
-    "Obsidian Test.md",
+    "Markdown Cheatsheet.md",
     "2023-02-25.md",
+    "Canvas Test.canvas",
     "Untitled 1.canvas"
   ]
 }
