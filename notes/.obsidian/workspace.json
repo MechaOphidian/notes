@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cheatsheets/cheatsheet_markdown.md",
+                "file": "cheatsheets/cheatsheet_python.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cheatsheets/cheatsheet_markdown.md",
+                "file": "cheatsheets/cheatsheet_python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cheatsheets/cheatsheet_markdown.md",
+                "file": "cheatsheets/cheatsheet_python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cheatsheets/cheatsheet_markdown.md"
+                "file": "cheatsheets/cheatsheet_python.md"
               }
             }
           }
@@ -149,17 +149,17 @@
   "active": "80a2133205a301fa",
   "lastOpenFiles": [
     "cheatsheets/cheatsheet_markdown.md",
+    "cheatsheets/cheatsheet_css.md",
+    "cheatsheets/cheatsheet_python.md",
+    "hub_cheatsheet.canvas",
     "logo.md",
     "images/logo_pornhub_svg.svg",
     "images/Unconfirmed 71332.crdownload",
     "images",
     "New folder",
-    "cheatsheets/cheatsheet_python.md",
-    "cheatsheets/cheatsheet_css.md",
     "cheatsheets",
     "py",
     "[].md",
-    "Canvas Test.canvas",
     "().md",
     "Git/notes/notes/CSSCheatsheet.md",
     "Git/notes/notes",
