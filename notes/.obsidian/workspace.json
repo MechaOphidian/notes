@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "88318e7494cd7852",
@@ -149,8 +150,8 @@
   "active": "80a2133205a301fa",
   "lastOpenFiles": [
     "cheatsheets/cheatsheet_markdown.md",
-    "cheatsheets/cheatsheet_css.md",
     "cheatsheets/cheatsheet_python.md",
+    "cheatsheets/cheatsheet_css.md",
     "hub_cheatsheet.canvas",
     "logo.md",
     "images/logo_pornhub_svg.svg",

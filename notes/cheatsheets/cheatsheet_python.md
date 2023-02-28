@@ -1,61 +1,120 @@
 ___
-# Console use
-```Markdown
-
-The console supports native Python use
-
-form1
-`>>> print('...Log # 001...')''`
-
-entered into the console the above will print out just like an IDE terminal
-
-```
+# 1. Console use
 ___
-# Indentation
-```Markdown
-Python uses indentation to denote it's wrapped containers
+## Example 1. (execute python in console)
 
-form1
+* The console supports native Python use
+* entered into the console the below will print out just like an IDE terminal
 
+```python
+>>> print('...Log # 001...')''
+```
+
+___
+
+
+
+___
+# 2. Indentation
+___
+## Example 1. (indentation syntax)
+
+* Python uses indentation to denote it's wrapped containers
+* The indentation denotes that everything on that line is inside of the above line
+
+```python
 if x > y
 	print('x is greater than y') 
+```
+___
 
-The indentation denotes that everything on that line is inside of the above line
+## Example 2. (spacing rule)
 
-form2
+* The number of spaces is irrelevant, pick a standard and stick to it most people use 4
 
+```python
 if x > y
 	           print('x is greater than y') 
+```
+___
 
-The number of spaces is irrelevant, pick a standard and stick to it most people use 4
+## Example 3. (multi-line spacing rule)
 
-form3
+* The number of spaces matters when using multiple lines the above will throw an error
+* The error would be because the indentation on the sub elements doesn't match
 
+```python
 if x > y
       print('x is greater than y') 
-	                print('x is greater than y') 
-
-The number of spaces matters when using multiple lines the above will throw an error
-The error would be because the indentation on the sub elements doesn't match
+	                print('x is greater than y')
 ```
 ___
-# Variables
-```Markdown
-Python doesn't need a command to declare a variable simply declare one
 
-form1
 
-x = 1
+
+___
+# 3. Variables
+___
+## Example 1. (variable declaration)
+
+* Python doesn't need a command to declare a variable simply declare one
+
+```python
+x = "Mecha"  
+y = "Ophidian"  
+print(x)  
+print(y)
 ```
 ___
-# Comments
-```Markdown
-Python comments are like notes that aren't read by the console; declared as followed
 
-form1
+## Example 2. (variable declaration)
 
+* You don't need to declare a variable type
+* You can also change a type after declaration later in the code
+
+```python
+x = 26       # x is of type int  
+x = "String" # x is now of type str  
+print(x)
+```
+___
+
+
+
+___
+# 4. Comments
+___
+## Example 1. (comment)
+
+* Python comments are like notes that aren't read by the console; declared as followed
+
+```python
 #Everything on this line is not run by the code
 print('Meanwhile everything on this line is')
+```
+___
+
+## Example 2. (in-line comment)
+
+* You can add comments at the end of code lines with the same result
+
+```python
+print('I will be printed') #I will not be printed
+```
+___
+
+## Example 3. (multi-line comment)
+
+* The number of spaces matters when using multiple lines the above will throw an error
+* The error would be because the indentation on the sub elements doesn't match
+
+```python
+"""
+Multi
+	----TRACK
+			----DRIFTING
+"""
+print('Was that a train drifting bruh?')
 ```
 ___
 
