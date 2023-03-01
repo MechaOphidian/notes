@@ -120,6 +120,44 @@ ___
 
 
 
+# 4. Section 5
+___
+## Example 1. (comment)
+
+* Python comments are like notes that aren't read by the console; declared as followed
+
+```python
+#Everything on this line is not run by the code
+print('Meanwhile everything on this line is')
+```
+___
+
+## Example 2. (in-line comment)
+
+* You can add comments at the end of code lines with the same result
+
+```python
+print('I will be printed') #I will not be printed
+```
+___
+
+## Example 3. (multi-line comment)
+
+* The number of spaces matters when using multiple lines the above will throw an error
+* The error would be because the indentation on the sub elements doesn't match
+
+```python
+"""
+Multi
+	----TRACK
+			----DRIFTING
+"""
+print('Was that a train drifting bruh?')
+```
+___
+
+
+
 
 
 
